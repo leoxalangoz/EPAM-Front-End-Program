@@ -1,1 +1,2 @@
 repeat all commands 
+git pull - this comand can be used to "pull" the changes from the remote repository to the local one
