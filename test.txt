@@ -1,2 +1,3 @@
 repeat all commands 
+git log - this commad tell us if it was changes on the remote repository
 git pull - this comand can be used to "pull" the changes from the remote repository to the local one
